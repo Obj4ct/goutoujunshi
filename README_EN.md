@@ -88,7 +88,7 @@ The knowledge base draws on **135 references** spanning relationship science, ps
 Send the following installation prompt to your AI assistant:
 
 ```text
-Please download the public repository https://github.com/shengjidaguai-china/goutoujunshi and install it as a local Skill.
+Please download the public repository https://github.com/Obj4ct/goutoujunshi and install it as a local Skill.
 ```
 
 After installation, you can enter:
