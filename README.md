@@ -88,7 +88,7 @@
 将下面的安装口令发送给你使用的 AI 助手：
 
 ```text
-请将公开仓库 https://github.com/shengjidaguai-china/goutoujunshi 下载并安装为本地 Skill。
+请将公开仓库 https://github.com/Obj4ct/goutoujunshi 下载并安装为本地 Skill。
 ```
 
 安装完成后，可以输入：
